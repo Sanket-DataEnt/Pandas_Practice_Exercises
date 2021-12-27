@@ -117,3 +117,7 @@ Exercise 28. How to find all the local maxima (or peaks) and local maxima in a n
 ```bash
 Exercise 29. How to replace missing spaces in a string with the least frequent character?
 ```
+
+```bash
+Exercise 30. How to create a TimeSeries starting ‘2000-01-01’ and 10 weekends (saturdays) after that having random numbers as values?
+```
