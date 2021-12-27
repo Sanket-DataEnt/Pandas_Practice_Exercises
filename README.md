@@ -126,3 +126,6 @@ Exercise 30. How to create a TimeSeries starting ‘2000-01-01’ and 10 weekend
 Exercise 31. How to fill an intermittent time series so all missing dates show up with values of previous non-missing date?
 ```
 
+```bash
+Exercise 32. How to compute the autocorrelations of a numeric series?
+```
