@@ -121,3 +121,8 @@ Exercise 29. How to replace missing spaces in a string with the least frequent c
 ```bash
 Exercise 30. How to create a TimeSeries starting ‘2000-01-01’ and 10 weekends (saturdays) after that having random numbers as values?
 ```
+
+```bash
+Exercise 31. How to fill an intermittent time series so all missing dates show up with values of previous non-missing date?
+```
+
