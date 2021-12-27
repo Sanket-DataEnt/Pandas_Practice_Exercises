@@ -134,3 +134,7 @@ Exercise 32. How to compute the autocorrelations of a numeric series?
 Exercise 33. How to import only every nth row from a csv file to create a dataframe?
 ```
 
+```bash
+Exercise 34. How to change column values when importing csv to a dataframe?
+```
+
