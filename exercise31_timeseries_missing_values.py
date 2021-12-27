@@ -23,6 +23,8 @@ ser = pd.Series([1,10,3,np.nan], index=pd.to_datetime(['2000-01-01', '2000-01-03
 # Solution
 ser.resample('D').ffill()  # fill with previous value
 
+print(ser)
+
 # Alternatives
 ser.resample('D').bfill()  # fill with next value
 ser.resample('D').bfill().ffill()  # fill next else prev value
