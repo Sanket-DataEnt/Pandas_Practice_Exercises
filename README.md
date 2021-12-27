@@ -129,3 +129,8 @@ Exercise 31. How to fill an intermittent time series so all missing dates show u
 ```bash
 Exercise 32. How to compute the autocorrelations of a numeric series?
 ```
+
+```bash
+Exercise 33. How to import only every nth row from a csv file to create a dataframe?
+```
+
