@@ -138,3 +138,6 @@ Exercise 33. How to import only every nth row from a csv file to create a datafr
 Exercise 34. How to change column values when importing csv to a dataframe?
 ```
 
+```bash
+Exercise 35. How to create a dataframe with rows as strides from a given series?
+```
