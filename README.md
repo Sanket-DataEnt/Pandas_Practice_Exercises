@@ -153,3 +153,7 @@ Exercise 37. How to get the nrows, ncolumns, datatype, summary stats of each col
 ```bash
 Exercise 38. How to extract the row and column number of a particular cell with given criterion?
 ```
+
+```bash
+Exercise 39. How to rename a specific columns in a dataframe?
+```
