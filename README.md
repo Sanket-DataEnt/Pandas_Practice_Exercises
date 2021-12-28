@@ -149,3 +149,7 @@ Exercise 36. How to import only specified columns from a csv file?
 ```bash
 Exercise 37. How to get the nrows, ncolumns, datatype, summary stats of each column of a dataframe? Also get the array and list equivalent.
 ```
+
+```bash
+Exercise 38. How to extract the row and column number of a particular cell with given criterion?
+```
