@@ -146,3 +146,6 @@ Exercise 35. How to create a dataframe with rows as strides from a given series?
 Exercise 36. How to import only specified columns from a csv file?
 ```
 
+```bash
+Exercise 37. How to get the nrows, ncolumns, datatype, summary stats of each column of a dataframe? Also get the array and list equivalent.
+```
