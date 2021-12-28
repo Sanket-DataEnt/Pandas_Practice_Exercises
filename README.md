@@ -141,3 +141,8 @@ Exercise 34. How to change column values when importing csv to a dataframe?
 ```bash
 Exercise 35. How to create a dataframe with rows as strides from a given series?
 ```
+
+```bash
+Exercise 36. How to import only specified columns from a csv file?
+```
+
