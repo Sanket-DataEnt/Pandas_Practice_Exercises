@@ -165,3 +165,7 @@ Exercise 40. How to check if a dataframe has any missing values?
 ```bash
 Exercise 41. How to count the number of missing values in each column?
 ```
+
+```bash
+Exercise 42. How to replace missing values of multiple numeric columns with the mean?
+```
