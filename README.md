@@ -157,3 +157,11 @@ Exercise 38. How to extract the row and column number of a particular cell with 
 ```bash
 Exercise 39. How to rename a specific columns in a dataframe?
 ```
+
+```bash
+Exercise 40. How to check if a dataframe has any missing values?
+```
+
+```bash
+Exercise 41. How to count the number of missing values in each column?
+```
