@@ -173,3 +173,7 @@ Exercise 42. How to replace missing values of multiple numeric columns with the 
 ```bash
 Exercise 43. How to use apply function on existing columns with global variables as additional arguments?
 ```
+
+```bash
+Exercise 44. How to select a specific column from a dataframe as a dataframe instead of a series?
+```
