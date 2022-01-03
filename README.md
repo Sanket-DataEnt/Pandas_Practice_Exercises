@@ -169,3 +169,7 @@ Exercise 41. How to count the number of missing values in each column?
 ```bash
 Exercise 42. How to replace missing values of multiple numeric columns with the mean?
 ```
+
+```bash
+Exercise 43. How to use apply function on existing columns with global variables as additional arguments?
+```
