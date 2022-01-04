@@ -177,3 +177,8 @@ Exercise 43. How to use apply function on existing columns with global variables
 ```bash
 Exercise 44. How to select a specific column from a dataframe as a dataframe instead of a series?
 ```
+
+```bash
+Exercise 45. How to change the order of columns of a dataframe?
+```
+
