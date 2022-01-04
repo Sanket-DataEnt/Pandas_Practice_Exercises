@@ -182,3 +182,6 @@ Exercise 44. How to select a specific column from a dataframe as a dataframe ins
 Exercise 45. How to change the order of columns of a dataframe?
 ```
 
+```bash
+Exercise 46. How to set the number of rows and columns displayed in the output?
+```
