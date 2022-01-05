@@ -189,3 +189,7 @@ Exercise 46. How to set the number of rows and columns displayed in the output?
 ```bash
 Exercise 47. How to format or suppress scientific notations in a pandas dataframe?
 ```
+
+```bash
+Exercise 48. How to format all the values in a dataframe as percentages?
+```
