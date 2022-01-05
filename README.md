@@ -193,3 +193,7 @@ Exercise 47. How to format or suppress scientific notations in a pandas datafram
 ```bash
 Exercise 48. How to format all the values in a dataframe as percentages?
 ```
+
+```bash
+Exercise 49. How to filter every nth row in a dataframe?
+```
