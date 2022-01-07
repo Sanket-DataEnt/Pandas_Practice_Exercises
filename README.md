@@ -201,3 +201,7 @@ Exercise 49. How to filter every nth row in a dataframe?
 ```bash
 Exercise 50. How to create a primary key index by combining relevant columns?
 ```
+
+```bash
+Exercise 51. How to get the row number of the nth largest value in a column?
+```
