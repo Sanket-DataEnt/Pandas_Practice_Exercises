@@ -197,3 +197,7 @@ Exercise 48. How to format all the values in a dataframe as percentages?
 ```bash
 Exercise 49. How to filter every nth row in a dataframe?
 ```
+
+```bash
+Exercise 50. How to create a primary key index by combining relevant columns?
+```
